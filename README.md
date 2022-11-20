@@ -9,13 +9,14 @@ This project was bootstrapped with [Create React App]
 In the project directory, you can run:
 
 ### `npm start`!
-[Screenshot_2022-11-20-23-22-16-25_40deb401b9ffe8e1df2f1cc5ba480b12](https://user-images.githubusercontent.com/64685787/202917925-a990eef4-1131-4651-989e-1ef9c82ba566.jpg)
+![ss](https://user-images.githubusercontent.com/64685787/202917965-9443318d-2220-49de-9f4e-183d12c3a89b.jpg)
+
 
 
 Runs the app in the development mode.\
 Open [https://vpnproject.netlify.app/](https://vpnproject.netlify.app/) to view it in your browser.
 
-The page will reload when you make changes.\![Screenshot_2022-11-20-23-22-16-25_40deb401b9ffe8e1df2f1cc5ba480b12](https://user-images.githubusercontent.com/64685787/202917878-a4485fa5-63e8-4596-accc-29490c9293ba.jpg)
+The page will reload when you make changes.\!
 
 You may also see any lint errors in the console.
 
